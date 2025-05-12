@@ -4,6 +4,7 @@ about: Report a problem with the project
 title: "[BUG] "
 labels: bug
 assignees: ''
+
 ---
 
 **Describe the bug**
